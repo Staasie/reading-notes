@@ -1,12 +1,12 @@
 # Read: Class 01
 
-my general understanding and why this is important: knowing the basics why os java, html, and css are super important even the little things like where to start and why to start. without an idea of what it is you even wanna do is super important cause without an idea you cant really go much further. having basic knowlage of what tools you can use and how to use them are super important cause its literally the foundation of your page and you cant build a house with no foundation. the ideas and frame and critical to the end result and should be taken just as serious as the meat and final touches of not only the work we do in class but pretty much everything we do.
+My general understanding and why this is important: knowing the basics why os java, html, and css are super important even the little things like where to start and why to start. without an idea of what it is you even wanna do is super important cause without an idea you cant really go much further. having basic knowlage of what tools you can use and how to use them are super important cause its literally the foundation of your page and you cant build a house with no foundation. the ideas and frame and critical to the end result and should be taken just as serious as the meat and final touches of not only the work we do in class but pretty much everything we do.
 
-## how HTTP sends data between computers
+## How HTTP sends data between computers
 
 ## Compose a short poem describing how HTTP sends data between computers
 
-+roses are red and violets are blue i never claimed to be a poet but heres the answer for you.. client requests something is goes to the servers and servers respond to the client and the cycle continues..
++ Roses are red and violets are blue i never claimed to be a poet but heres the answer for you.. client requests something is goes to the servers and servers respond to the client and the cycle continues..
 
 ## Describe how HTML, CSS, and JS files are “parsed” in the browser
 
@@ -44,11 +44,11 @@ In a script, a variable declared using var is added as a non-configurable proper
 
 links used for imformation and answers are as shown
 
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+[javascript basics with moziella](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like
+[what will your website look like with mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+[how the web works with mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 ## What is an HTML attribute?
 
@@ -150,11 +150,11 @@ _article_
 
 links to pages used for answers are as follows
 
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+[getting started with mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
+[website structure with mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
+[metadata with mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
 _extra info_
 __how to start to design a webpage__
@@ -171,7 +171,7 @@ IE a goal and a solution to get to where i want to be.
 
 Reference page for my answer
 
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
+[html intorduction with mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
 ## _semantics_
 
@@ -183,7 +183,7 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_hea
 
 Reference page used for my answers
 
-https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+[developer with mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
 _Java Script__
 
@@ -199,4 +199,4 @@ _Java Script__
 
 Reference page used for my answers
 
-<a>https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript</a>
+[learning java script with mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
