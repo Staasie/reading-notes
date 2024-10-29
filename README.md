@@ -34,5 +34,3 @@ _Making my first reading notes!_
 ## Code 301 - **Intermediate Software Development**
 
 ## Code 401 - **Advanced Software Development**
-
-
