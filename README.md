@@ -1,8 +1,9 @@
 # reading-notes
 
-Making my first reading notes!
+_Making my first reading notes!_
 
-102:
+## Code 102 - **Intro to Software Development**
+
 [class1](102/class1.md)
 [class2](102/class2.md)
 [class3](102/class3.md)
@@ -12,7 +13,8 @@ Making my first reading notes!
 [class7](102/class7.md)
 [class8](102/class8.md)
 
-201:
+## Code 201 - **Foundations of Software Development**
+
 [class1](201/class1.md)
 [class2](201/class2.md)
 [class3](201/class3.md)
@@ -28,3 +30,9 @@ Making my first reading notes!
 [class13](201/class13.md)
 [class14](201/class14.md)
 [class15](201/class15.md)
+
+## Code 301 - **Intermediate Software Development**
+
+## Code 401 - **Advanced Software Development**
+
+
