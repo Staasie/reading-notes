@@ -1,4 +1,4 @@
-# Here's a classic spaghetti recipe that's simple and delicious
+# A classic spaghetti recipe
 
 Ingredients
 
