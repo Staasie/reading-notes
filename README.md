@@ -30,6 +30,7 @@ _Making my first reading notes!_
 [class13](201/class13.md)
 [class14](201/class14.md)
 [class15](201/class15.md)
+[journal](201/learningj/)
 
 ## Code 301 - **Intermediate Software Development**
 
