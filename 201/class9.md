@@ -18,7 +18,7 @@ _List 5 form elements and explain their importance._
 + textarea: A multi-line text input field for entering larger amounts of text.
 + button: A clickable element used to submit a form or perform an action when clicked.
 
-# Learn JS
+## Learn JS
 
 _How would you describe events to a non-technical friend?_
 
