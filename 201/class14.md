@@ -3,7 +3,7 @@
 _What are three key factors that contribute to psychologically safe teams?_
 
 + _Open communication_
-+ _Mutual respect and trust-
++ _Mutual respect and trust_
 + _Inclusive Leadership_
 
 _Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety._
@@ -12,7 +12,7 @@ _Evaluate, with details, a previous professional setting (or team) you were in w
 
 _What impact do teams that operate with a high degree of psychological safety have on their company and the team members?_
 
-+they create a good mental environment that allow everyone in the group feel like they can speak freely that way ideas that some may think arent good in their heads can be said freely without judgement while also having the potential to do something great. they can get more done and have a stress free environment making it possible to get more done.
++ They create a good mental environment that allow everyone in the group feel like they can speak freely that way ideas that some may think arent good in their heads can be said freely without judgement while also having the potential to do something great. they can get more done and have a stress free environment making it possible to get more done.
 
 ## Read: Class 14
 
@@ -72,7 +72,7 @@ Can repeat indefinitely or run for a specified number of times.
 
 _What are some benefits to using CSS transitions on websites?_
 
-+ makes the site look more appealing and engaging, allows special dynamic's to your site.
++ Makes the site look more appealing and engaging, allows special dynamic's to your site.
 
 _How does this topic fit in with your long-term goals?_
 
